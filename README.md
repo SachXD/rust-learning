@@ -7,6 +7,6 @@ This repository is a learning repository where I'll be adding my daily learnings
 - [x] Variables
 - [ ] Loops
 - [ ] Conditionals
-- [ ]  Operations
+- [ ] Operations
 - [ ] Comments
-- [ ]  Functions
+- [ ] Functions
