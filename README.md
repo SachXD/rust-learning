@@ -10,3 +10,25 @@ This repository is a learning repository where I'll be adding my daily learnings
 - [ ] Operations
 - [ ] Comments
 - [ ] Functions
+- [ ] Ownership
+- [ ] References & Borrowing
+- [ ] Slicing
+- [ ] Structs
+- [ ] Enums
+- [ ] Modules
+- [ ] Lists & Vectors
+- [ ] UTF-8 & Strings
+- [ ] Keys & Hash Maps
+- [ ] Tests
+- [ ] CLI Program
+- [ ] Closures
+- [ ] Iterators
+- [ ] Cargo & Crates.io
+- [ ] Smart Pointers
+- [ ] Threads
+- [ ] Concurrency
+- [ ] OOP
+- [ ] Patterns & Matching
+- [ ] ADVANCED(as-per-book)
+- [ ] A Multi-threaded Web-Server
+- [ ] Do a Discord Nitro Giveway(lol)
