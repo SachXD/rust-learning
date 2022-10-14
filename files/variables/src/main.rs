@@ -67,4 +67,15 @@ fn main() {
 
     let first = a[0];
     let second = a[1];
+    
+    another_function;
+    not_another_function(1,2);
+}
+fn another_function(){
+    println!("Hello, sekhai");
+}
+
+fn not_another_function(x: i32, y: i32){
+    println!("The value of x is :  {}", x);
+    println!("The value of y is : {}",y);
 }
