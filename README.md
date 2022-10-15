@@ -7,9 +7,9 @@ This repository is a learning repository where I'll be adding my daily learnings
 - [x] Variables
 - [ ] Loops
 - [ ] Conditionals
-- [ ] Operations
-- [ ] Comments
-- [ ] Functions
+- [x] Operations
+- [x] Comments
+- [x] Functions
 - [ ] Ownership
 - [ ] References & Borrowing
 - [ ] Slicing
