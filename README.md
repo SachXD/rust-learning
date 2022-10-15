@@ -5,8 +5,8 @@ This repository is a learning repository where I'll be adding my daily learnings
 - [x] Syntax
 - [x] Hello World
 - [x] Variables
-- [ ] Loops
-- [ ] Conditionals
+- [x] Loops
+- [x] Conditionals
 - [x] Operations
 - [x] Comments
 - [x] Functions
