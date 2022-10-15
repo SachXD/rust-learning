@@ -64,7 +64,7 @@ fn alpha() {
     let a = [12,23,34,45,56];
 
     for element in a.iter(){
-        println!("the value is: {}", element);
+        println!("the value is: {}", element); //this .iter() ensures safety in the code making sure no out-of bounds can occur
     }
 }
 
