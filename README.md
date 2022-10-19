@@ -10,7 +10,7 @@ This repository is a learning repository where I'll be adding my daily learnings
 - [x] Operations
 - [x] Comments
 - [x] Functions
-- [ ] Ownership
+- [x] Ownership
 - [ ] References & Borrowing
 - [ ] Slicing
 - [ ] Structs
