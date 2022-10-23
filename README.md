@@ -11,7 +11,7 @@ This repository is a learning repository where I'll be adding my daily learnings
 - [x] Comments
 - [x] Functions
 - [x] Ownership
-- [ ] References & Borrowing
+- [x] References & Borrowing
 - [ ] Slicing
 - [ ] Structs
 - [ ] Enums
