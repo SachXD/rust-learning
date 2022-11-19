@@ -1,4 +1,5 @@
 # Documentation of my Rust Learning Journey
+
 Hey folks! I'm learning the Rust Programming language using the official [The Rust Programming Language](https://doc.rust-lang.org/book/) book.
 This repository is a learning repository where I'll be adding my daily learnings in the Rust Programming Language.Thanks for visiting!
 
@@ -12,8 +13,8 @@ This repository is a learning repository where I'll be adding my daily learnings
 - [x] Functions
 - [x] Ownership
 - [x] References & Borrowing
-- [ ] Slicing
-- [ ] Structs
+- [x] Slicing
+- [x] Structs
 - [ ] Enums
 - [ ] Modules
 - [ ] Lists & Vectors
