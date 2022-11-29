@@ -5,13 +5,19 @@ enum Message{
     ChangeColor(i32, i32, i32),
 }
 
-struct QuitMessage;
-
+struct QuitMessage; //unit struct
 struct MoveMessage{
     x: i32,
     y: i32,
 }
+struct WriteMessage(String); //tuple struct
+struct ChangeColorMessage(i32, i32, i32); //tuple struct
 
-struct WriteMessage(String);
+impl Message{
+    fn call(&self){
+        // method body 
+    }
+}
 
-struct ChangeColorMessage(i32, i32, i32);
+let m = Message::Write(String::from("Senju"));
+m.call();
