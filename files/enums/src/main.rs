@@ -7,7 +7,3 @@ enum IpAddrKind{
 let home = IpAddr::V4(127, 0, 0, 1);
 
 let loopback = IpAddr::V6(String::from("::1"));
-
-fn main() {
-    println!("Hello, world!");
-}
