@@ -15,8 +15,8 @@ This repository is a learning repository where I'll be adding my daily learnings
 - [x] References & Borrowing
 - [x] Slicing
 - [x] Structs
-- [ ] Enums
-- [ ] Modules
+- [x] Enums
+- [x] Modules
 - [ ] Lists & Vectors
 - [ ] UTF-8 & Strings
 - [ ] Keys & Hash Maps
